@@ -1,6 +1,6 @@
-# Integrated Motion Analysis
+# Human Motion Prediction
 
-Welcome to the **Integrated Motion Analysis** project! This application uses a deep learning model to predict the type of physical activity being performed in a video. The project is built with a Flask backend that handles video processing and model prediction, and a React frontend that allows users to upload videos and view prediction results.
+Welcome to the **Human Motion Prediction** project! This application uses a deep learning model to predict the type of physical activity being performed in a video. The project is built with a Flask backend that handles video processing and model prediction, and a React frontend that allows users to upload videos and view prediction results.
 
 ## Features
 
