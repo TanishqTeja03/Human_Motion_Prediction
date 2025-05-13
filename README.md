@@ -74,7 +74,7 @@ Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the VIT License.
 
 Contact
-For any inquiries or issues, please contact tejaxspatil@gmail.com, ishpatel4443@gmail.com
+For any inquiries or issues, please contact tanishqteja.chalumuri03@gmail.com
